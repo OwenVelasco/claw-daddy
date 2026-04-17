@@ -27,3 +27,10 @@ This repo is the persistent memory and workspace for Clawdius (an OpenClaw AI as
 
 ---
 _This file is auto-updated by Clawdius after each significant workspace update._
+## 2026-04-17 Evening — Google Workspace Setup
+- Google Calendar: WORKING — can create events and send invites
+- Google Drive: WORKING — created "Shared With Owen" folder
+- Google Docs API: Enabled by Owen (API was disabled by default)
+- Folder: https://drive.google.com/drive/u/2/folders/1TzSSI-Cqu45OnE3e_IxLwA3dos2va256
+- First doc: https://docs.google.com/document/d/16jCD1beOe8WnwrUZ3r9pXtZqJh_nTGgjIqMMFvO000A
+- Clawdius's Google: clawdiustailer@gmail.com
