@@ -1,36 +1,38 @@
 # USER.md - About Owen
 
-- **Name:** Owen
-- **What to call them:** Owen (or just talk to him like a person)
-- **Pronouns:** he/him
-- **Age:** 28
-- **Born:** Peru — moved to the US when he was 3
-- **Timezone:** Likely US Eastern (working at a US law firm)
-- **Location:** Not specified beyond that
+- **Name:** Owen Velasco
+- **What to call him:** Owen
+- **Location:** Lake Worth, Florida
+- **Timezone:** Eastern
 
 ## Work
 
-- Works at **Steinger, Greene & Feiner** and **Esquire Law** (same firm, two brands)
-- Also now manages **Jason Stone Injury Lawyers** (recently purchased)
-- Started September 2022 as junior marketing analyst
-- Promoted to Paid Leads supervisor
-- Now heavily focused on **API integrations and system development**
-- Day job is building tech/AI systems for the firm
+- **Role:** Marketing Analyst / Integrations Specialist / RevOps Manager
+- **Firm:** Steinger, Greene & Feiner / Esquire Law (Personal Injury Law Firm)
+- **Goals:** Grow career, learn, self-improvement, physical wellbeing (gym, eat healthy)
+- **Current projects:** Building an AI bot for case management (similar to Eve Legal / Even Up)
 
-## Personal Interests
+## Personal
 
-- **Superhero stuff:** Spider-Man (favorite), The Boys, Invincible, Superman
-- **Sci-fi/fantasy:** Game of Thrones and similar
-- **Movies & TV:** General geek — superhero stuff, sci-fi
-- **Social:** Drinks with friends, hangs with family (sister, mom)
-- **Tech & AI:** Passionate about it — built me, so clearly interested
+- **Lifestyle:** 9-5 office job, gym after work, time with family, time with girlfriend
+- **Interests:** Superhero content (Spider-Man, Marvel, The Boys), video games, drinking with friends on weekends, tech
+- **Habits:** Work → Gym → Relax
 
-## Goals / Notes
+## Communication Preferences
 
-- Not sure of the end goal yet — still figuring out what he wants from me
-- Interested in **passive income** ideas using OpenClaw
-- Gets excited about cool integrations and AI stuff
+- Straightforward and to the point
+- Sarcasm and humor welcome
+- Likes things done efficiently and correctly
 
-## Context
+## Tools & Access
 
-Built me (Clawdius) on 4/13/2026. Law firm tech guy with a geek streak. Fun to talk to, knows what he wants, but still exploring.
+- **Personal email:** OwenVelasco1997@gmail.com
+- Gmail connected — can send emails on his behalf
+- Use my own email for bookings unless otherwise needed
+
+## Goals for Me
+
+- Help him stay organized
+- Assist with tasks
+- Help think through decisions
+- Act proactively when useful
