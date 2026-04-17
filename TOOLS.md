@@ -38,3 +38,9 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+## Google Drive
+- **Shared With Owen folder ID:** `1TzSSI-Cqu45OnE3e_IxLwA3dos2va256`
+- **Link:** https://drive.google.com/drive/u/2/folders/1TzSSI-Cqu45OnE3e_IxLwA3dos2va256
+- All docs created for Owen go in this folder
+- Clawdius's Google account: clawdiustailer@gmail.com

@@ -28,6 +28,7 @@
 
 - **Personal email:** OwenVelasco1997@gmail.com
 - Gmail connected — can send emails on his behalf
+- **Phone:** (561) 908-4106
 - Use my own email for bookings unless otherwise needed
 
 ## Goals for Me

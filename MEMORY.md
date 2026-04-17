@@ -4,7 +4,7 @@
 
 **Name:** Owen Velasco
 **Location:** Lake Worth, Florida | Timezone: Eastern
-**Personal email:** OwenVelasco1997@gmail.com
+**Personal email:** OwenVelasco1997@gmail.com | Phone: (561) 908-4106
 
 ### Work
 - Marketing Analyst / Integrations Specialist / RevOps Manager
