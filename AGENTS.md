@@ -204,6 +204,19 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
+## GitHub Backup & Changelog
+
+**ALWAYS push significant changes to GitHub.**
+
+The workspace backs up to: `git@github.com:OwenVelasco/claw-daddy.git`
+
+After any meaningful change, run:
+```bash
+cd /root/.openclaw/workspace && git add -A && git commit -m "<description>" && git push origin master
+```
+
+**Update CHANGELOG.md** after each push with a brief note of what changed.
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
