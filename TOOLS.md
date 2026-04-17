@@ -44,3 +44,8 @@ Add whatever helps you do your job. This is your cheat sheet.
 - **Link:** https://drive.google.com/drive/u/2/folders/1TzSSI-Cqu45OnE3e_IxLwA3dos2va256
 - All docs created for Owen go in this folder
 - Clawdius's Google account: clawdiustailer@gmail.com
+
+## Calendar
+- **Invite email:** Owen.velasco@icloud.com (always use this for event invites)
+- **Calendar account:** Clawdius's Google (clawdiustailer@gmail.com)
+- Note: Gmail invites to OwenVelasco1997@gmail.com don't arrive — use iCloud email only
